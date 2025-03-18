@@ -12,3 +12,4 @@
 | 2 | [Ссылка](https://github.com/airvt1x/startups-repo/tree/2) |
 | 3 | [Ссылка](https://github.com/airvt1x/startups-repo/tree/3) |
 | 4 | [Ссылка](https://github.com/airvt1x/startups-repo/tree/4) |
+| 5 | [Ссылка](https://docs.google.com/presentation/d/1d75A4DiQuJefVZpKMdqJfbeTL67Bx5Wz82gsiI9xyzY/edit#slide=id.p)
