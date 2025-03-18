@@ -8,7 +8,7 @@
 # Ветки с заданиями 
 | Номер недели | Ссылка на ветку |
 | :---: | --- |
-| 1 | [Ссылка](-) |
-| 2 | [Ссылка](-) |
-| 3 | [Ссылка](-) |
-| 4 | [Ссылка](-) |
+| 1 | [Ссылка](https://github.com/airvt1x/startups-repo/tree/1) |
+| 2 | [Ссылка](https://github.com/airvt1x/startups-repo/tree/2) |
+| 3 | [Ссылка](https://github.com/airvt1x/startups-repo/tree/3) |
+| 4 | [Ссылка](https://github.com/airvt1x/startups-repo/tree/4) |
